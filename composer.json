@@ -1,0 +1,38 @@
+{
+    "name": "vilbur/commander",
+    "type": "library",
+    "description": "Commander for development of packages for Laravel",
+    "keywords": [
+        "vilbur",
+        "Commander"
+    ],
+    "homepage": "https://github.com/vilbur/laravel-package-template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": ":vilbur",
+            "email": "cerny.vil@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Vilbur\\Commander\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Vilbur\\Commander\\": "tests/"
+        }
+    },
+    "extra": {
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

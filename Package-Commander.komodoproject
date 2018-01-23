@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="bf31e542-9a53-410b-a6ca-a5bc1be3cd47" kpf_version="5" name="Package-template.komodoproject">
+<livefolder id="80c84488-4dcf-4dfb-8a14-28608b90d9ca" idref="bf31e542-9a53-410b-a6ca-a5bc1be3cd47" name="tests" url="tests/">
+</livefolder>
+<livefolder id="de56605c-990e-47d3-9b64-b3c57642fc24" idref="bf31e542-9a53-410b-a6ca-a5bc1be3cd47" name="src" url="src/">
+</livefolder>
+<preference-set idref="bf31e542-9a53-410b-a6ca-a5bc1be3cd47" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+<preference-set id="testPlans">
+<preference-set id="pack-Template - test plan # 1">
+  <string id="command_line"></string>
+  <string relative="url" id="directory"></string>
+  <string id="language">PHP - PHPUnit</string>
+</preference-set>
+<preference-set id="pack-Template - test plan # 2">
+  <string id="command_line"></string>
+  <string relative="url" id="directory">tests</string>
+  <string id="language">PHP - PHPUnit</string>
+</preference-set>
+</preference-set>
+</preference-set>
+</project>
